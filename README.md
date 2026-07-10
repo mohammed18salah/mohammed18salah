@@ -12,7 +12,7 @@
 </tr>
 </table>
 
-## Mohammed Salah
+## Mohammed Salahuldeen
 
 **AI Systems Builder · Automation Architect · Founder-minded Technologist**
 
