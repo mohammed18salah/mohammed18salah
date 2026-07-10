@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 376
+W, H = 480, 440
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -50,7 +50,7 @@ ROWS = [
     ("kv", "Role", "AI Systems Builder & Automation Architect"),
     ("kv", "Focus", "AI Agent Ecosystems & Computer Vision"),
     ("kv", "NLP", "Arabic Language Processing"),
-    ("kv", "Edu", "AI Dept — University of Anbar, Iraq"),
+    ("kv", "Edu", "AI Dept - University of Anbar, Iraq"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "AI / ML", "PyTorch, TensorFlow, OpenCV, HuggingFace"),
@@ -60,10 +60,10 @@ ROWS = [
     ("kv", "Tools", "Docker, Git, DigitalOcean, Kaggle"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "NURAI 2026: Attend AI — Facial Recognition (86/100)"),
-    ("bul", "TextLens AI — Arabic Plagiarism Detection (80/100)"),
-    ("bul", "HerbalDr AI — Arabic Herbal Medicine Chatbot"),
-    ("bul", "861 contributions & Pull Shark x2"),
+    ("bul", "NURAI 2026: Attend AI - Facial Recognition (86/100)"),
+    ("bul", "TextLens AI - Arabic Plagiarism Detection (80/100)"),
+    ("bul", "HerbalDr AI - Arabic Herbal Medicine Chatbot"),
+    ("bul", "819 contributions & Pull Shark x2"),
 ]
 
 
